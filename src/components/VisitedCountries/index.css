@@ -1,0 +1,24 @@
+.image-v {
+  height: 130px;
+  width: 250px;
+}
+
+.list-item-v {
+  margin-right: 20px;
+  color: #ffffff;
+  font-size: 10px;
+}
+
+.l-c {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.remove-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  color: #ffffff;
+}
